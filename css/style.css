@@ -12,6 +12,14 @@
   box-sizing: border-box;
 }
 
+
+header{
+  background-color: green;
+  color: white;
+  text-align: center;
+  padding: 5px;
+}
+
 body {
   font-size: 1.1rem;
   background: var(--preview-bg);
